@@ -1,0 +1,493 @@
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll.config
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.pdb
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe.config
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.rsp
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe.config
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.rsp
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.AppContext.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Collections.Immutable.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Console.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Globalization.Calendars.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Http.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Sockets.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Reflection.Metadata.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.ValueTuple.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe.config
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.rsp
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe.config
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.xml
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.xml
+D:\psd\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\psd\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.AssemblyReference.cache
+D:\psd\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.CoreCompileInputs.cache
+D:\psd\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.Up2Date
+D:\psd\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.dll
+D:\psd\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.pdb
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll.config
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.pdb
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe.config
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.rsp
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe.config
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.rsp
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.AppContext.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Collections.Immutable.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Console.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Globalization.Calendars.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Http.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Sockets.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Reflection.Metadata.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.ValueTuple.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe.config
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.rsp
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe.config
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.xml
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.xml
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.AssemblyReference.cache
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.CoreCompileInputs.cache
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.Up2Date
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.dll
+D:\a day in uni\s e m  4\Pattern Software Design\MakeMeUpzz  update asin dan ernest\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.pdb
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll.config
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.pdb
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe.config
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.rsp
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe.config
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.rsp
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.AppContext.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Collections.Immutable.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Console.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Globalization.Calendars.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Http.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Sockets.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Reflection.Metadata.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.ValueTuple.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe.config
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.rsp
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe.config
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.xml
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.xml
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.AssemblyReference.cache
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.CoreCompileInputs.cache
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.Up2Date
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.dll
+D:\psd\update\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.pdb
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll.config
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.pdb
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe.config
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.rsp
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe.config
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.rsp
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.AppContext.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Collections.Immutable.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Console.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Globalization.Calendars.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Http.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Sockets.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Reflection.Metadata.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.ValueTuple.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe.config
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.rsp
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe.config
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportSource.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.Shared.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.Web.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\stdole.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.xml
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.xml
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.AssemblyReference.cache
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.CoreCompileInputs.cache
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.Up2Date
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.dll
+C:\Vs code\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.pdb
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll.config
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.pdb
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe.config
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.rsp
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe.config
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.rsp
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.AppContext.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Collections.Immutable.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Console.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Globalization.Calendars.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Http.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Sockets.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Reflection.Metadata.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.ValueTuple.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe.config
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.rsp
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe.config
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\stdole.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.xml
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.xml
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.AssemblyReference.cache
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.CoreCompileInputs.cache
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.Up2Date
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.dll
+D:\psd\update\jopang\MakeMeUpzz\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.pdb
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll.config
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.pdb
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe.config
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.rsp
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe.config
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.rsp
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.AppContext.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Collections.Immutable.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Console.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Globalization.Calendars.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Http.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Sockets.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Reflection.Metadata.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.ValueTuple.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe.config
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.rsp
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe.config
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportSource.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.Shared.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.Web.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\stdole.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.xml
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.xml
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.AssemblyReference.cache
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.CoreCompileInputs.cache
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.Up2Date
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.dll
+D:\My files\Downloads\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.pdb
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll.config
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\MakeMeUpzz.pdb
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.exe.config
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csc.rsp
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.exe.config
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\csi.rsp
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Managed.Core.targets
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.AppContext.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Collections.Immutable.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Console.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Globalization.Calendars.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Http.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Net.Sockets.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Reflection.Metadata.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.ValueTuple.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XmlDocument.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.exe.config
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\vbc.rsp
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\roslyn\VBCSCompiler.exe.config
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportSource.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.Shared.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.Web.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\stdole.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.xml
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\EntityFramework.SqlServer.xml
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.AssemblyReference.cache
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.CoreCompileInputs.cache
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.csproj.Up2Date
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.dll
+D:\My files\Downloads\Zipp\MakeMeUpzz\MakeMeUpzz\obj\Debug\MakeMeUpzz.pdb

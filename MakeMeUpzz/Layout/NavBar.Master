@@ -1,0 +1,29 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="NavBar.master.cs" Inherits="MakeMeUpzz.Layout.NavBar" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+<form id="form1" runat="server">
+        <asp:Button ID="HomeButton" EnableViewState="true" runat="server" Text="Homepage" OnClick="HomeButton_Click" Style="font-weight:bold"/>
+        <asp:Button ID="OrderQbutton" EnableViewState="true" runat="server" Text="Orders" OnClick="OrderQbutton_Click" Style="font-weight:bold"/>
+        <asp:Button ID="ManageMakeupButton" EnableViewState="true" runat="server" Text="Management" OnClick="ManageMakeupButton_Click" Style="font-weight:bold"/>
+        <asp:Button ID="OrderMakeupButton" EnableViewState="true" runat="server" Text="Purchase" OnClick="OrderMakeupButton_Click" Style="font-weight:bold"/>
+        <asp:Button ID="HistoryButton" EnableViewState="true" runat="server" Text="History" OnClick="HistoryButton_Click" Style="font-weight:bold"/>\
+        <hr />
+        <asp:Button ID="ProfileButton" EnableViewState="true" runat="server" Text="Profile" OnClick="ProfileButton_Click" Style="font-weight:bold"/>
+        <asp:Button ID="TransactionReport" EnableViewState="true" runat="server" Text="Reports" OnClick="TransactionReport_Click" Style="font-weight:bold"/>
+        <asp:Button ID="logoutButton" EnableViewState="true" runat="server" Text="Logout" OnClick="LogoutButton_Click" Style="font-weight:bold" />
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+
+    </div>
+</form>
+</body>
+</html>
